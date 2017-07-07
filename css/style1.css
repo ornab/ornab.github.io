@@ -3,7 +3,7 @@
 
 [INSTA, Main Stylesheet ]
 
-    Color        : GREEN ( #00B796 )
+    Color        : RED ( #E94C6F )
 
     Name         : INSTA - Responsive Onepage Resume Template
 
@@ -108,7 +108,7 @@
     width: 20px;
     height: 20px;
     opacity: 0.8;
-    background-color: #00B796;
+    background-color: #E94C6F;
     -webkit-animation: loaderBlock 1.2s infinite ease-in-out both;
     animation: loaderBlock 1.2s infinite ease-in-out both;
 }
@@ -360,7 +360,7 @@ body {
 
 .intro-content h1 span,
 .main-heading h1 span {
-    color: #00B796;
+    color: #E94C6F;
 }
 
 .intro-content h2 {
@@ -386,7 +386,7 @@ body {
 
 .social-media a + .tooltip > .tooltip-inner {
     background-color: transparent;
-    color: #00B796;
+    color: #E94C6F;
     font-size: 16px;
 }
 .social-media a + .tooltip > .tooltip-arrow {
@@ -396,7 +396,7 @@ body {
 /*Bootstrap tooltips Customized*/
 
 .social-media a:hover {
-    color: #00B796;
+    color: #E94C6F;
 }
 
 /* ( c ) Navigation Menu */
@@ -477,7 +477,7 @@ body {
 }
 
 .heading h2 span {
-    color: #00B796;
+    color: #E94C6F;
 }
 
 .heading h3 {
@@ -546,7 +546,7 @@ body {
 }
 
 .main-heading h1:after {
-    background-color: #00B796;
+    background-color: #E94C6F;
     position: absolute;
     content: "";
     top: 100%;
@@ -586,11 +586,11 @@ body {
 
 .story-content img {
     padding: 0;
-    border: 1px solid #00B796;
+    border: 1px solid #E94C6F;
 }
 
 .story-content div h3 {
-    color: #00B796;
+    color: #E94C6F;
     line-height: 1;
     margin-top: 0;
 }
@@ -600,8 +600,8 @@ body {
 }
 
 .story-content div a {
-    border: 1px solid #00B796;
-    color: #00B796;
+    border: 1px solid #E94C6F;
+    color: #E94C6F;
     display: block;
     float: left;
     margin: 29px 5px;
@@ -616,14 +616,14 @@ body {
 }
 
 .story-content div a:hover {
-    background: #00B796;
+    background: #E94C6F;
     color: #fff;
 }
 
 /* ( b ) What Can I Do */
 
 .services-container {
-    background: #00B796;
+    background: #E94C6F;
 }
 
 .services-container h2 {
@@ -648,7 +648,7 @@ body {
     background: #fff;
     border-radius: 50%;
     box-shadow: 0 0 0 8px rgba(255, 255, 255, 0.15), 0 0 0 0 rgba(255, 255, 255, 0.3);
-    color: #00B796;
+    color: #E94C6F;
     font-size: 36px;
     height: 60px;
     line-height: 60px;
@@ -698,7 +698,7 @@ body {
 }
 
 .education-container:before {
-    background: #00B796;
+    background: #E94C6F;
     content: "";
     height: 96%;
     left: 50px;
@@ -713,7 +713,7 @@ body {
 }
 
 .education-container .bullet {
-    background: #00B796;
+    background: #E94C6F;
     border: 5px solid #f5f5f5;
     border-radius: 50%;
     height: 30px;
@@ -737,7 +737,7 @@ body {
 }
 
 .education-content h3 {
-    background: #00B796;
+    background: #E94C6F;
     color: #fff;
     display: block;
     margin: 0;
@@ -746,7 +746,7 @@ body {
 }
 
 .education-content h3:before {
-    border-color: transparent #00B796 transparent transparent;
+    border-color: transparent #E94C6F transparent transparent;
     border-image: none;
     border-style: solid;
     border-width: 10px;
@@ -767,7 +767,7 @@ body {
 /* ( b ) Experience Section */
 
 .experience {
-    background: #00B796;
+    background: #E94C6F;
 }
 
 .experience h2 {
@@ -792,7 +792,7 @@ body {
 
 .experience-container .bullet {
     background: #fff;
-    border: 5px solid #00B796;
+    border: 5px solid #E94C6F;
     border-radius: 50%;
     height: 30px;
     right: 21px;
@@ -811,7 +811,7 @@ body {
 
 .experience-content h3 {
     background: #fff;
-    color: #00B796;
+    color: #E94C6F;
     display: block;
     margin: 0;
     line-height: 1.42;
@@ -884,8 +884,8 @@ body {
 
 .filter {
     background: none;
-    border: 1px solid #00B796;
-    color: #00B796;
+    border: 1px solid #E94C6F;
+    color: #E94C6F;
     margin: 10px 0;
     padding: 10px 25px;
     -webkir-transition: all 0.3s;
@@ -896,12 +896,12 @@ body {
 }
 
 .filter:hover {
-    background: #00B796;
+    background: #E94C6F;
     color: #fff;
 }
 
 .filter.active {
-    background: #00B796;
+    background: #E94C6F;
     color: #fff;
 }
 
@@ -934,7 +934,7 @@ body {
 }
 
 .project .ovrly {
-    background: rgba(0, 183, 150, 0.5);
+    background: rgba(233, 76, 111, 0.5);
     position: absolute;
     height: 100%;
     left: 0;
@@ -1020,7 +1020,7 @@ body {
 
 .popup_content {
     max-width: 500px;
-    border: 5px solid #00B796;
+    border: 5px solid #E94C6F;
     background: #fff;
 }
 
@@ -1040,8 +1040,8 @@ body {
 }
 
 .popup_content a {
-    border: 1px solid #00B796;
-    color: #00B796;
+    border: 1px solid #E94C6F;
+    color: #E94C6F;
     display: block;
     width: 150px;
     margin: 30px auto;
@@ -1056,7 +1056,7 @@ body {
 }
 
 .popup_content a:hover {
-    background: #00B796;
+    background: #E94C6F;
     color: #fff;
 }
 
@@ -1065,7 +1065,7 @@ body {
 /* ( b )  Testimonial Section */
 
 .testimonials {
-    background: #00B796;
+    background: #E94C6F;
 }
 
 .testimonials h2 {
@@ -1112,7 +1112,7 @@ body {
 
 .contact-form input,
 .contact-form textarea {
-    border: 1px solid #00B796;
+    border: 1px solid #E94C6F;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
@@ -1154,14 +1154,14 @@ body {
 .contact-form textarea:focus,
 .contact-form input:hover,
 .contact-form textarea:hover {
-    box-shadow: 0px 0px 3px 0px #00B796;
+    box-shadow: 0px 0px 3px 0px #E94C6F;
 }
 
 .contact-form button {
     background: none;
     border-radius: 2px;
-    border: 1px solid #00B796;
-    color: #00B796;
+    border: 1px solid #E94C6F;
+    color: #E94C6F;
     margin: 10px 0;
     padding: 10px 25px;
     text-align: center;
@@ -1173,7 +1173,7 @@ body {
 }
 
 .contact-form button:hover {
-    background: #00B796;
+    background: #E94C6F;
     color: #fff;
 }
 
@@ -1240,7 +1240,7 @@ body {
 
 .contact-details .social-media a + .tooltip > .tooltip-inner {
     background-color: #343333;
-    color: #00B796;
+    color: #E94C6F;
     font-size: 16px;
     padding: 3px 10px 5px 10px;
     border-radius: 2px;
@@ -1256,7 +1256,7 @@ body {
                       -------------*/
 
 .footer {
-    background: #00B796;
+    background: #E94C6F;
     padding: 10px 20px 6px 20px;
 }
 
