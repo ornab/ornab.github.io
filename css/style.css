@@ -599,6 +599,14 @@ body {
 }
 
 .story-content div a {
+    color: #00B796;
+}
+
+.story-content div a:hover {
+    color: #ffffff;
+}
+
+.decorate a {
     border: 1px solid #00B796;
     color: #00B796;
     display: block;
@@ -614,7 +622,7 @@ body {
     transition: all 0.3s;
 }
 
-.story-content div a:hover {
+.decorate a:hover {
     background: #00B796;
     color: #fff;
 }
