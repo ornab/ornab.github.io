@@ -607,7 +607,7 @@ body {
     text-decoration: none;
 }
 
-.story-content div div .decorate a {
+.story-content div .decorate a {
     border: 1px solid #00B796;
     color: #00B796;
     display: block;
@@ -623,7 +623,7 @@ body {
     transition: all 0.3s;
 }
 
-.story-content div div .decorate a:hover {
+.story-content div .decorate a:hover {
     background: #00B796;
     color: #fff;
 }
