@@ -599,15 +599,6 @@ body {
 }
 
 .story-content div a {
-    color: #00B796;
-}
-
-.story-content div a:hover {
-    color: #002e5b;
-    text-decoration: none;
-}
-
-.story-content div .decorate a {
     border: 1px solid #00B796;
     color: #00B796;
     display: block;
@@ -623,10 +614,11 @@ body {
     transition: all 0.3s;
 }
 
-.story-content div .decorate a:hover {
+.story-content div a:hover {
     background: #00B796;
     color: #fff;
 }
+
 
 /* ( b ) What Can I Do */
 
