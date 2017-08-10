@@ -606,7 +606,26 @@ body {
     color: #ffffff;
 }
 
+.story-content .decorate a {
+    border: 1px solid #00B796;
+    color: #00B796;
+    display: block;
+    float: left;
+    margin: 29px 5px;
+    padding: 10px 25px;
+    text-decoration: none;
+    text-align: center;
+    -webkir-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
 
+.story-content .decorate a:hover {
+    background: #00B796;
+    color: #fff;
+}
 
 /* ( b ) What Can I Do */
 
